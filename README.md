@@ -31,18 +31,65 @@ Desde então, continuo evoluindo na área e aperfeiçoando na vontade de sempre 
 
 ### 🤖 Projetos
 
-<p align="left">
-    <a href="https://painelimpettus.grupoimpettus.com.br">
+<table>
+  <tr>
+    <td align="center">
+      <strong>Painel Corporativo</strong><br>
+      <a href="https://painelimpettus.grupoimpettus.com.br">
         <img 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" 
-            width="100" 
-            height="100" 
-            alt="Devicon"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" 
+          width="100" 
+          height="100" 
+          alt="Painel Corporativo"
         />
-    </a>
-</p>
-
-
+      </a>
+    </td>
+    <td align="center">
+      <strong>Agenda Corporativa</strong><br>
+      <a href="https://painelimpettus.grupoimpettus.com.br">
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" 
+          width="100" 
+          height="100" 
+          alt="Agenda Corporativa"
+        />
+      </a>
+    </td>
+      <td align="center">
+      <strong>Painel de Promoções Por Marca - Degust</strong><br>
+      <a href="https://painelimpettus.grupoimpettus.com.br">
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" 
+          width="100" 
+          height="100" 
+          alt="Painel de Promoções Por Marca - Degust"
+        />
+      </a>
+    </td>
+      <td align="center">
+      <strong>Gerador Ficha Técnica - Degust</strong><br>
+      <a href="https://painelimpettus.grupoimpettus.com.br">
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" 
+          width="100" 
+          height="100" 
+          alt="Gerador Ficha Técnica - Degust"
+        />
+      </a>
+    </td>
+      <td align="center">
+      <strong>Uno-Tracking - App Gestão Consumo sob rotas</strong><br>
+      <a href="https://painelimpettus.grupoimpettus.com.br">
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" 
+          width="100" 
+          height="100" 
+          alt="Gerador Ficha Técnica - Degust"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
