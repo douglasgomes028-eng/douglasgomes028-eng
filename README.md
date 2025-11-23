@@ -29,6 +29,24 @@ Desde então, continuo evoluindo na área e aperfeiçoando na vontade de sempre 
 
 ---
 
+### 🤖 Projetos
+
+<p align="left">
+    <a href="https://painelimpettus.grupoimpettus.com.br">
+        <img 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" 
+            width="100" 
+            height="100" 
+            alt="Devicon"
+        />
+    </a>
+</p>
+
+
+
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
